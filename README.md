@@ -10,13 +10,7 @@ coding madness aprox. 30 days of coding per website topic refresher
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/SololearnCertificates.jpeg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/SololearnCertificates.jpeg">
-  <img alt="SoloLearn Certificats" src="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/SololearnCertificates.jpeg" width="400">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/FreeCodeCamp%20Certificates.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/FreeCodeCamp%20Certificates.jpg">
-  <img alt="SoloLearn Certificats" src="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/FreeCodeCamp%20Certificates.jpg" width="450">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/SoloLearn%20and%20FCC%20Certificate%20Summary.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/SoloLearn%20and%20FCC%20Certificate%20Summary.jpg">
+  <img alt="SoloLearn and FCC Certificate Summary" src="https://github.com/morlRepos/FFC-SoloLearn-AppAccademyOpen/blob/main/SoloLearn%20and%20FCC%20Certificate%20Summary.jpg">
 </picture>
